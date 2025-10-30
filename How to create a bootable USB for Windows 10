@@ -1,0 +1,9 @@
+How to create a bootable USB for Windows 10
+
+<https://www.techradar.com/how-to/how-to-create-a-bootable-usb-drive-for-windows-10>
+
+<https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d>
+
+To create a bootable USB for Windows 10, first, get a USB drive with at least 8GB of free space.
+Then, download the Media Creation Tool from Microsoft's website or a tool like Rufus with a Windows 10 ISO file. Run the tool, select your USB drive, and it will copy the Windows 10 files to the USB. 
+Insert the USB into your PC, restart, and choose the USB drive as the boot device. Finally, follow the prompts to install Windows 10.
